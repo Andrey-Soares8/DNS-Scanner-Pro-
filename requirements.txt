@@ -1,0 +1,9 @@
+# Dependências principais
+tkinter>=8.6.0  # Geralmente já vem com Python
+typing>=3.7.4.3
+dataclasses>=0.8; python_version < '3.7'  # Para compatibilidade com Python < 3.7
+
+# Dependências de desenvolvimento (opcional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0 

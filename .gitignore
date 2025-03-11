@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambiente Virtual
+venv/
+ENV/
+meu_venv/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Arquivos grandes de wordlist (exceto o exemplo)
+worldlist.txt
+# worldlist-5000.txt é mantido como exemplo
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db 
